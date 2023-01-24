@@ -1,0 +1,26 @@
+.bodydiv>img{
+    width: 400px;
+    margin: 10px 10px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    margin: 10px 10px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.imagenHeader{
+    width: 100%;
+}
+
+.columnas{
+    display: flex;
+    justify-content: space-around;
+}
